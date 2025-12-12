@@ -1,0 +1,15 @@
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\MainWindow.g.cs
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\App.g.cs
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.cache
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame_MarkupCompile.lref
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\MainWindow.baml
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.g.resources
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.Properties.Resources.resources
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+D:\School 3\Основы алгоритмизации и программирования\26_SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
